@@ -1,0 +1,18 @@
+prompt
+
+I have a shopify section with an interactive invite, and apparently the last part is not very intuitive. 
+everything looks fine, do not touch anything else besides what i'm asking for. 
+  context. 
+  1. this invite has a a drag and drop function, but it is not clear what you should drag and what to tap. 
+  2. in the image 1, here's the point where people get confused: 
+  3. some people try to click on the text "carrega-me" and try to drag the text "mexe-me, not realising these actions are mean to the invites. 
+  4. on the image 2 you can see the adjustments needed to the arrow and text. the arrow tips must be pointing at the correspondent card. 
+     the mexe-me text and arrow must be on the left side of the card. the carrega aqui text and arrow must be higher, close to the visible part of the inner card. 
+  5. If possible create a pulsating effect to the inner card (slight zoom in and zoom out in loop, until the card is tapped). 
+     And if possible, duplicate the outer card and make it drag from the original position to the left, from 50% oppacity on the original position to 0% on the last point of the left, and repeat in loop until the outer card is dragged and dropped. 
+  6. this section is programmed to hide the arrows and the mexe-me and carrega aqui text once the used does the intended action. make sure the pulsating and move to the left effects stop aswell once the action is made by the user. 
+  7. everything must be responsive, figure out the best position for the arrows. Here's the present code, provide the whole code again with the changes i asked for, If you have any questions about this section, please ask before start writting the code.
+
+    code
+
+    
